@@ -1,0 +1,8 @@
+@import 'variables';
+@import 'reset';
+
+body {
+  font-family: $body-font;
+  background-color: $background;
+  color: white;
+}
