@@ -7,19 +7,35 @@
   margin: 6px 6px 6px 6px;
 }
 
+.jokes-button {
+  font-size: 11px;
+  height: 45px;
+  width: 59px;
+  border-radius: 50%;
+}
+
 .settings {
+  text-align: center;
   position: absolute;
   top: 15px;
   right: 20px;
   border: none;
-  width: 50px;
   height: 50px;
   border-radius: 50%;
-  padding-right: 5px;
+  padding: 5px;
+  font-size: 9px;
 }
 
-h1 {
+.Header-Title {
   font-family: "Bungee Shade", sans-serif;
-  font-size: 40px;
+  font-size: 48px;
   color: white;
+}
+
+
+.input-number {
+  width: 30px;
+  height: 40px;
+  font-size: 25px;
+  border-radius: 8px;
 }

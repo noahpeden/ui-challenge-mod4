@@ -1,0 +1,17 @@
+@import '../../variables';
+
+ul {
+  margin-left: 5%;
+}
+
+.joke {
+  padding: 10px;
+  background: rgba(0,0,0,0.2);
+  align-content: center;
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 10px;
+  width: 27%;
+  height: 120px;
+}

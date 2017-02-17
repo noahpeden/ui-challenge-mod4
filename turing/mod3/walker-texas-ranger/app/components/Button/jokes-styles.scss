@@ -1,0 +1,40 @@
+.settings-button {
+  font-size: 30px;
+  height: 20px;
+  width: 30px;
+}
+
+.no-favs {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 40%;
+}
+
+.new-jokes, .input-area {
+  display: inline-block;
+}
+
+.new-jokes {
+  width: 250px;
+  font-size: 20px;
+}
+
+.new-jokes, .favorites {
+  margin-left: 40%;
+  margin-right: 5px;
+  border-radius: 8px;
+  outline: none;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+.favorites {
+  margin-top: 5px;
+  margin-left: 51%;
+  font-size: 15px;
+}
+
+.new-jokes:hover, .favorites:hover {
+  background: rgba(255,255,255,0.2)
+}
